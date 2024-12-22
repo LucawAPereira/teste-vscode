@@ -26,6 +26,6 @@ if(media > 6)
     printf("Aluno Aprovado !!");
 } else 
 {
-    printf("Aluno Reprovado !!, editado aqui!");
+    printf("Aluno Reprovado !!, editado aqui!, agora editado pelo vscode");
 }
 }

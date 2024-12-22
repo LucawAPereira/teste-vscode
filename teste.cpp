@@ -26,6 +26,6 @@ if(media > 6)
     printf("Aluno Aprovado !!");
 } else 
 {
-    printf("Aluno Reprovado !!, editado aqui!, agora editado pelo vscode");
+    printf("Aluno Reprovado !!, editado aqui!, agora editado pelo vscode, atualizacao branchteste2.0");
 }
 }
